@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/qml">
+        <file>GameWindowForm.qml</file>
+        <file>main.qml</file>
+        <file>MainMenuButton.qml</file>
+        <file>MainMenuWindowForm.qml</file>
+        <file>Toast.qml</file>
+        <file>SelectorArea.qml</file>
+    </qresource>
+    <qresource prefix="/"/>
+</RCC>

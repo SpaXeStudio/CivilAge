@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/shaders">
+        <file>bg.fsh</file>
+        <file>bg.vsh</file>
+    </qresource>
+</RCC>
